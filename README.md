@@ -10,7 +10,7 @@ npm fully and goes one hop on the other two, disclosed explicitly rather than fa
 Companion piece (the conversational version — lodash and chalk have zero dependencies, the
 `is-even` meme is down to 3 packages, express is 63): [dev.to/ronin13 — lodash Installs With
 Zero Dependencies. express Installs With
-63.](https://dev.to/ronin13/lodash-installs-with-zero-dependencies-express-installs-with-63-i-counted-without-running-npm-install)
+63.](https://dev.to/ronin13/lodash-installs-with-zero-dependencies-express-installs-with-63-i-counted-without-running-npm-2jhk)
 
 ![banner](assets/banner-1.png)
 
